@@ -1,5 +1,5 @@
-Adarra
-Buruntza
-Belkoain
-Arno
-Aizkorri
+-Adarra
+-Buruntza
+-Belkoain
+-Arno
+-Aizkorri
